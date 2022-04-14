@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        Teacher t1 = new Teacher("Ahmet Hoca","905355601936","MAT") ;
+        Teacher t1 = new Teacher("Ahmet Hoca","905355601","MAT") ;
         Teacher t2 = new Teacher("Sezen Hoca ","532555555","FZK") ;
         Teacher t3 = new Teacher("Mahmut Hoca","123132132","BIO") ;
 
